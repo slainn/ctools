@@ -1,2 +1,2 @@
 # ctools
-docker centos image with some tools
+centos image with some tools
